@@ -1,0 +1,9 @@
+h1{text-align:center}
+html{ background-color:lightcoral;font-family: Verdana, Geneva, sans-serif}
+.music {text-align: center; background-color:lightpink;font-family: Verdana, Geneva, sans-serif}
+.games{text-align: center; background-color: pink;font-family: Verdana, Geneva, sans-serif}
+.girl {background: lightpink;font-family: Verdana, Geneva, sans-serif}
+img {
+  border: solid;
+  border-width: 2px;
+  border-color: lavender;}
